@@ -14,10 +14,15 @@ Step1
 We need to import the necessary libraries/modules for the code to work. If the libraries already there it is not necessary to install the libraries or other wise user have to install that library by using.
 
 Pip install < library name >
+
 import streamlit as st
+
 import psycopg2
+
 import pandas as pd
+
 import plotly.express as px
+
 from streamlit_option_menu import option_menu
 
 Step2
